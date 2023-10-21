@@ -1,7 +1,7 @@
 # Código desarrollado por @gata_dios 
   
 #!/data/data/com.termux/files/usr/bin/bash 
-BOT_DIR="GataBot-MD"  
+BOT_DIR="PruebaBot-MD"  
 BOT_REPO="https://github.com/SerizawaBeta-MD/$BOT_DIR"
 DB_FILE="database.json"
  
